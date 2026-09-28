@@ -1,0 +1,23 @@
+{
+  "home": "Home",
+  "catalog": "Catalog",
+  "favorites": "Favorites",
+  "profile": "Profile",
+  "welcome_title": "Welcome!",
+  "welcome_text": "Here you can choose products and add them to favorites.",
+  "card_delivery": "Fast delivery",
+  "card_sale": "Sales every day",
+  "phone": "Phone",
+  "laptop": "Laptop",
+  "headphones": "Headphones",
+  "watch": "Watch",
+  "camera": "Camera",
+  "tablet": "Tablet",
+  "no_favorites": "No favorites yet",
+  "user_name": "Aigerim",
+  "settings": "Settings",
+  "notifications": "Notifications",
+  "language": "Language",
+  "about": "About app",
+  "about_text": "SRS 4, version 1.0.0"
+}
